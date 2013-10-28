@@ -1,3 +1,7 @@
+Then /it always passes/ do
+  true
+end
+
 Then /^1 \+ 1 == 2$/ do
   1 + 1 == 2
 end
